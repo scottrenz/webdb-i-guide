@@ -9,7 +9,7 @@
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
-    "knex": "^0.19.3",
+    "knex": "^2.4.0",
     "node": "^12.10.0",
     "node.js": "0.0.0",
     "sqlite3": "^4.1.0"
